@@ -5,8 +5,8 @@
 def calculoImc(peso, altura):
     imc = peso/(altura * altura)
     if imc < 16.9:
-        return "Muito abaixo do peso"
+        return "Muito abaixo do peso."
     elif imc >= 17 and imc < 18.4:
-        return "Abaixo do peso"
+        return "Abaixo do peso."
     else:
-        return "Alguma coisa"
+        return "Alguma coisa."
