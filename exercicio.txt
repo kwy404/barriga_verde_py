@@ -1,0 +1,52 @@
+1: Crie um código que calcule 2 numerose e retorne ele,
+porem usando funcoes
+
+2: Crie uma função que faz extrato de saida e entrada,
+usando funções, 1 para entrada, 2 para saida
+Exemplo: 200 reais de entrada, 300 de entrada, e 100 de saida,
+Saida: você tem 400 reais sobrando
+
+3: Crie uma função que transforma um numero para ao quadrado
+
+4: Crie uma função que soma 3 numeros e divida ele por 5
+
+5: Crie uma função que pergunta ao usuario qual filme
+ele gosta, e mostre isso na tela.
+
+6: Crie uma função que pergunte o ano que o usuario nasceu, e o ano atual
+e pegue a idade dele
+
+7: Crie uma função que pergunta um numero, e faça uma contagem até ele, Exemplo
+numero 4,
+vai mostrar na tela isso
+1
+2
+3
+4
+
+8: Crie uma funcao que faz a tabuada, exemplo 
+tabuada(numero, maximo)
+tabuada(5, 2)
+faz a tabuada até o numero do 2 do numero 5, a
+5x0=0
+5x1=1
+5x2
+
+9: Verifique se o número é positivo ou negativo, com funcao
+positivoOuNegativo(5)
+
+10: Verifique a idade do usuario, se ele é maior de 18 anos ou não. 
+Em função
+
+11: faça um codigo que converta real para dolar, e dolar para real
+2 funcoes
+realParaDolar(10)
+dolarParaReal(30)
+
+12: Crie uma funcao que faz a tabuada invertida, exemplo 
+tabuada(numero, maximo)
+tabuada(5, 2)
+faz a tabuada até o numero do 2 do numero 5, a
+5x2=10
+5x1=5
+5x0=0
